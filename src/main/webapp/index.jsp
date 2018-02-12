@@ -8,7 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<c:url var="add" value="/add"></c:url>
 
 <form action="add" method="get">
 	<input type="text" name="t1"> <br>
